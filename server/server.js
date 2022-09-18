@@ -56,13 +56,12 @@ db.once('open', () => {
 });
 
 
-// BEFORE REFACTOR CODE BELOW
-//const routes = require('./routes');
+const routes = require('./routes');
 
 
-//app.use(routes);
+app.use(routes);
 
 
-// db.once('open', () => {
-//   app.listen(PORT, () => console.log(`🌍 Now listening on localhost:${PORT}`));
-// });
+ db.once('open', () => {
+  app.listen(PORT, () => console.log(`🌍 Now listening on localhost:${PORT}`));
+ });
