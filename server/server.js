@@ -56,6 +56,7 @@ db.once('open', () => {
 });
 
 
+// BEFORE REFACTOR CODE BELOW
 const routes = require('./routes');
 
 
