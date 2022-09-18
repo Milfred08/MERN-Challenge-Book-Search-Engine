@@ -16,10 +16,6 @@
 
 This is a full stack web application that was built using REACT, Bootstrap, Graphql, Jwt MongoDB and Apollo.
 
-### Major tech snapshot
-
-![tech](assets/images/tech-used.JPG?raw=true "code-used.JPG")
-
 <a name="web-address"></a>
 ## 2. How to Get There
 
