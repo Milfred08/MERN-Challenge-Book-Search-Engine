@@ -21,7 +21,7 @@ This is a full stack web application that was built using REACT, Bootstrap, Grap
 
 ### Open your favorite web browser and enter the following web address to start using the website.
 
-Add heroku link here.....
+https://mernbook-seach-engine.herokuapp.com/
 
 
 <a name="usage"></a>
